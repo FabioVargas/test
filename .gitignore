@@ -1,0 +1,6 @@
+misc/
+venv/
+.DS_Store
+.idea/
+.gitignore.swp
+.ipynb_checkpoints/
